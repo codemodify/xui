@@ -1,0 +1,6 @@
+{
+	"xui-grid": {
+		"render": "xui-grid-column",
+		"widths": []
+	}
+}
